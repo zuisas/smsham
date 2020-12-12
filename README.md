@@ -8,6 +8,6 @@ colorama<br>
 # install and use
 git clone https://github.com/termux-lab/smsham.git
 cd smsham<br>
-python3 smsham.py<br>
+python3 main.py<br>
 >> number phone
 
